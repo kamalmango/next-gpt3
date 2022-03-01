@@ -74,8 +74,7 @@
 }
 
 .lyricsContainer {
-  margin: 1rem 0;
-  max-width: 70%;
+  margin: 2rem 0;
 }
 
 .lyricsTitle {
@@ -84,7 +83,11 @@
 }
 
 .lyrics {
-  color: #788492
+  color: #788492;
+}
+
+.loadingSpinner {
+  margin-top: 5rem;
 }
 
 @media (max-width: 600px) {
